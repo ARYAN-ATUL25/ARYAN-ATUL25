@@ -1,6 +1,6 @@
 <h2 align="center"> Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Aryan Atul <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h2>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
-<img align="right" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"  width="330" height="270">
+<img align="left" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"  width="330" height="270">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-atul25&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-atul25" /> </p>
 
