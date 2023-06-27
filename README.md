@@ -16,9 +16,9 @@
 
 - 🙌 I’m looking to collaborate on **whatever you bring on the desk**
 
-- 🤝 I’m looking for help **in building skills based on frontend and backend development**
+- 🫱🏻‍🫲🏼 I’m looking for help **in building skills based on frontend and backend development**
 
-- 💬 Ask me about **HTML,CSS,Javscript,Programming and Algorithms**
+- 🔡 Ask me about **HTML,CSS,Javscript,Programming and Algorithms**
 
 - 📫 How to reach me **aryanatul1@gmail.com**
 
