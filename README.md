@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-atul25&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-atul25" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aryanatul9" target="blank"><img src="https://img.shields.io/twitter/follow/aryanatul9?logo=twitter&style=for-the-badge" alt="aryanatul9" /></a> </p>
-# 💫 About Me:
+- 💫 About Me:
 - 🔭 I’m currently working on React, Node.JS and Backend Development<br><br>- ⚒ I’m currently learning React and Node.JS<br><br>- 🙌 I’m looking to collaborate on whatever you bring on the desk<br><br>- 🫱🏻‍🫲🏼 I’m looking for help in building skills based on frontend and backend development<br><br>- 🔡 Ask me about HTML,CSS,Javscript,Programming and Algorithms<br><br>- 📫 How to reach me aryanatul1@gmail.com
 
 
