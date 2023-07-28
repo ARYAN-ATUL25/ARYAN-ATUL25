@@ -4,7 +4,6 @@
 <img align="center" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" >
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-atul25&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-atul25" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aryanatul9" target="blank"><img src="https://img.shields.io/twitter/follow/aryanatul9?logo=twitter&style=for-the-badge" alt="aryanatul9" /></a> </p>
 - 💫 About Me:
